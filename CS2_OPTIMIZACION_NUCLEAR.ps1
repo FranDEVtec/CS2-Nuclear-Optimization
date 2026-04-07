@@ -571,7 +571,7 @@ Write-Host "  - 1080p Medium Settings: 250-350 FPS"
 Write-Host "  - 1080p High Settings: 180-250 FPS"
 Write-Host ""
 Write-Host "REVERTIR CAMBIOS:" -ForegroundColor Yellow
-Write-Host "  Usa el punto de restauración: 'PRE-CS2-NUCLEAR-OPT'"
+Write-Host "  Usa el punto de restauración: PRE-CS2-NUCLEAR-OPT"
 Write-Host ""
 Write-Host "Para más info, revisa: CS2_GUIA_COMPLETA.md" -ForegroundColor Cyan
 Write-Host ""
